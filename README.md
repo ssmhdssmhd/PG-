@@ -18,19 +18,19 @@ http://www.fish2018.us.kg/p/jsm.json
 
 ## PG包下载地址
 ```bash
-https://raw.yzuu.cf/fish2018/PG/main/pg.20241101-1920.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20241101-1920.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20241101-1920.zip
-https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-1920.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-1920.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-1920.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-1920.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-1920.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-1920.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-1920.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-1920.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-1920.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-1920.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20241101-2306.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20241101-2306.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20241101-2306.zip
+https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-2306.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-2306.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-2306.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-2306.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-2306.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-2306.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-2306.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-2306.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-2306.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241101-2306.zip
 ```
 
 ## pg包今日更新内容
@@ -46,6 +46,7 @@ PG包[README.txt](http://www.fish2018.us.kg/p/README.txt)
 今日更新内容：(更多内容阅读zip内的README.txt)
 1.修复肥羊直播中的ysptp初始化有时会崩溃的问题。需要网盘设置-》相关设置》重新加载GO代理。
 2.增加Alist分享(csp_AlistShare)。（搜索未实现）
+3.优化Alist分享的分类排序。
 ```
 
 ## tgsearch包下载地址
