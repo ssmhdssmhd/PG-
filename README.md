@@ -18,19 +18,19 @@ http://www.fish2018.us.kg/p/jsm.json
 
 ## PG包下载地址
 ```bash
-https://raw.yzuu.cf/fish2018/PG/main/pg.20241102-1036.zip
-https://raw.nuaa.cf/fish2018/PG/main/pg.20241102-1036.zip
-https://raw.kkgithub.com/fish2018/PG/main/pg.20241102-1036.zip
-https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1036.zip
-https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1036.zip
-https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1036.zip
-https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1036.zip
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1036.zip
-https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1036.zip
-https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1036.zip
-https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1036.zip
-https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1036.zip
-https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1036.zip
+https://raw.yzuu.cf/fish2018/PG/main/pg.20241102-1212.zip
+https://raw.nuaa.cf/fish2018/PG/main/pg.20241102-1212.zip
+https://raw.kkgithub.com/fish2018/PG/main/pg.20241102-1212.zip
+https://ghp.ci/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1212.zip
+https://gitdl.cn/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1212.zip
+https://gh.con.sh/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1212.zip
+https://ghproxy.net/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1212.zip
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1212.zip
+https://gh-proxy.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1212.zip
+https://ghproxy.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1212.zip
+https://gh.llkk.cc/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1212.zip
+https://gh.ddlc.top/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1212.zip
+https://gh-proxy.llyke.com/https://raw.githubusercontent.com/fish2018/PG/main/pg.20241102-1212.zip
 ```
 
 ## pg包今日更新内容
@@ -46,6 +46,7 @@ PG包[README.txt](http://www.fish2018.us.kg/p/README.txt)
 今日更新内容：(更多内容阅读zip内的README.txt)
 1.为避免引起混淆，把Alist分享改名为“网盘分享合集”
 2.网盘分享合集支持搜索，包括针对阿里和115的在线无需索引直接搜索以及阿里夸克uc115pikpak的本地索引搜索。
+3.优化网盘分享合集的初始化过程，提高加载成功率。
 ```
 
 ## tgsearch包下载地址
